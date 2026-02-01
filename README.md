@@ -36,5 +36,5 @@ The dataset contains information related to:
 - Python (for initial data cleaning)
 
 ## Dashboard Overview
-![Dashboard](powebidashboard.jpg.docx)
+![Dashboard](PowerbiDashboard1.png)
 
