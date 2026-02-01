@@ -34,3 +34,7 @@ The dataset contains information related to:
 - Power Query
 - DAX
 - Python (for initial data cleaning)
+
+## Dashboard Overview
+![Dashboard](powebidashboard.jpg.docx)
+
